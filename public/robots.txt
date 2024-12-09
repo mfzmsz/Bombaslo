@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bombaslo-tech.com/sitemap.xml
